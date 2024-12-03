@@ -1,0 +1,75 @@
+ body {
+     background-color: #fff;
+     font-family: 'Arial', sans-serif;
+     font-size: 16px;
+     line-height: 1.5;
+     color: #333;
+     margin: 0;
+     padding: 0;
+    background-image: url("../img/fundo_cert.png");
+ }
+
+ .container {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 20px;
+ }
+
+ .title {
+
+     text-align: center;
+ }
+
+ .content {
+     text-align: center;
+ }
+
+ .footer {
+     text-align: center;
+ }
+
+ .logo {
+     max-width: 200px;
+     margin-bottom: 20px;
+ }
+
+ .cert {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+ }
+
+ .cert-image {
+     max-width: 300px;
+     margin-bottom: 20px;
+ }
+
+ .cert-text {
+     margin-bottom: 20px;
+ }
+
+ .cert-signature {
+     margin-bottom: 20px;
+ }
+
+ .cert-date {
+     margin-bottom: 20px;
+ }
+
+ .cert-name {
+     margin-bottom: 20px;
+ }
+
+ .cert-title {
+     margin-bottom: 20px;
+ }
+
+ .cert-school {
+     margin-bottom: 20px;
+ }
+
+ .cert-ies {
+     margin-bottom: 20px;
+ }

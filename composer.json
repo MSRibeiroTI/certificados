@@ -1,0 +1,20 @@
+{
+    "description": "Gerador de Certificados",
+    "authors": [
+        {
+            "name": "Marcelo Ribeiro",
+            "email": "marcelocaricatus@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Core\\": "core"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "spatie/db-dumper": "^3.7"
+    }
+
+}

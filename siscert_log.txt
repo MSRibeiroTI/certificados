@@ -1,0 +1,642 @@
+01/10/2024 13:05:42 -  - Página de login acessada.
+01/10/2024 13:05:55 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 13:06:24 -  - Página de login acessada.
+01/10/2024 13:06:34 - Seu Testador da Silva - Usuário logado com sucesso.
+01/10/2024 13:08:02 -  - Página de login acessada.
+01/10/2024 13:08:06 -  - Página de login acessada.
+01/10/2024 13:08:07 -  - Página de login acessada.
+01/10/2024 13:08:08 -  - Página de login acessada.
+01/10/2024 13:08:08 -  - Página de login acessada.
+01/10/2024 13:09:59 -  - Email ou senha incorretos.
+01/10/2024 13:10:13 - Seu Testador da Silva - Usuário logado com sucesso.
+01/10/2024 13:10:45 -  - Usuário saiu do sistema.
+01/10/2024 13:24:06 -  - Página de login acessada.
+01/10/2024 13:24:20 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 13:24:50 - Marcelo Ribeiro - Aluno adicionado com sucesso: Teste
+01/10/2024 13:26:19 - Marcelo Ribeiro - Aluno adicionado com sucesso: Raul da SIlva- Id:
+01/10/2024 14:35:58 -  - Página de login acessada.
+01/10/2024 14:36:10 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 14:37:25 - Marcelo Ribeiro - Aluno editado com sucesso. ID: Raul da Silva
+01/10/2024 14:58:01 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+01/10/2024 15:08:28 -  - Usuário saiu do sistema.
+01/10/2024 15:08:30 -  - Página de login acessada.
+01/10/2024 15:08:40 -  - Email ou senha incorretos.
+01/10/2024 15:08:51 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 15:11:42 -  -  saiu do sistema.
+01/10/2024 15:11:47 -  - Página de login acessada.
+01/10/2024 15:12:42 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 15:12:48 -  -  saiu do sistema.
+01/10/2024 15:13:38 -  - Página de login acessada.
+01/10/2024 15:13:45 - Seu Testador da Silva - Usuário logado com sucesso.
+01/10/2024 15:13:47 -  - saiu do sistema:
+01/10/2024 15:14:35 -  - Página de login acessada.
+01/10/2024 15:14:43 - Seu Testador da Silva - Usuário logado com sucesso.
+01/10/2024 15:14:45 - Seu Testador da Silva - saiu do sistema:Seu Testador da Silva
+01/10/2024 15:24:20 -  - Página de login acessada.
+01/10/2024 15:24:30 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/10/2024 15:25:24 - Marcelo Ribeiro - Usuaário alterado com sucesso. Nome: Marcelo de Souza Ribeiro
+01/10/2024 15:30:08 - Marcelo Ribeiro - Usuaário alterado com sucesso. Nome: Marcelo de Souza Ribeiro
+01/10/2024 15:30:15 - Marcelo Ribeiro - Usuaário alterado com sucesso. Nome: Marcelo Ribeiro
+01/10/2024 15:34:26 - Marcelo Ribeiro - Backup gerado com sucesso!
+01/10/2024 16:54:50 - Marcelo Ribeiro - Saiu do sistema: 
+02/10/2024 21:14:22 -  - Página de login acessada.
+02/10/2024 21:14:36 - Marcelo Ribeiro - Usuário logado com sucesso.
+02/10/2024 21:14:53 - Marcelo Ribeiro - Backup gerado com sucesso!
+02/10/2024 21:15:25 - Marcelo Ribeiro - Saiu do sistema: 
+03/10/2024 15:31:23 -  - Página de login acessada.
+03/10/2024 15:31:43 - Marcelo Ribeiro - Usuário logado com sucesso.
+03/10/2024 21:24:06 - Marcelo de Souza Ribeiro - Saiu do sistema: 
+03/10/2024 21:24:08 -  - Página de login acessada.
+03/10/2024 21:24:26 -  - Email ou senha incorretos.
+03/10/2024 21:24:35 - Marcelo Ribeiro - Usuário logado com sucesso.
+03/10/2024 23:34:06 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:38:05 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:41:28 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:42:27 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:43:13 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:44:06 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:44:44 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+03/10/2024 23:54:30 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+03/10/2024 23:55:19 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+03/10/2024 23:55:47 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+03/10/2024 23:57:09 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+03/10/2024 23:57:19 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+04/10/2024 08:13:21 -  - Página de login acessada.
+04/10/2024 08:13:47 - Marcelo Ribeiro - Usuário logado com sucesso.
+04/10/2024 08:21:38 - Marcelo Ribeiro - Usuário alterado com sucesso. Seu Testador da Silva
+04/10/2024 08:22:28 - Marcelo Ribeiro - Usuário alterado com sucesso. Seu Testador da Silva
+04/10/2024 08:32:18 - Marcelo Ribeiro - Usário admin adicionado.
+04/10/2024 08:32:33 - Marcelo Ribeiro - Saiu do sistema: 
+04/10/2024 08:32:35 -  - Página de login acessada.
+04/10/2024 08:32:48 - admin - Usuário logado com sucesso.
+04/10/2024 09:41:56 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 09:50:34 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:36:35 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:37:17 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:37:51 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:38:17 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:38:38 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:41:50 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:42:31 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:45:13 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:45:37 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 10:45:45 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 10:45:58 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:46:44 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 10:46:52 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:47:17 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:47:33 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:47:40 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:58:18 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:58:27 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 10:58:39 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 10:58:49 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:04:56 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:09:33 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:09:35 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:09:41 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:09:43 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:11:46 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:11:49 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:11:58 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:12:00 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:12:02 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:12:04 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:12:11 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:12:14 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:12:41 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:13:33 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:13:48 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:15:15 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:15:24 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:16:08 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:17:07 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:17:17 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:17:26 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:18:34 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:19:15 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:19:35 - admin - PDF gerado com sucesso: ID:22- Aluno: João Samsnug da China
+04/10/2024 11:19:50 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:20:07 - admin - PDF gerado com sucesso: ID:21- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:20:17 - admin - PDF gerado com sucesso: ID:21- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:20:26 - admin - PDF gerado com sucesso: ID:20- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:20:43 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:25:06 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:25:12 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:26:24 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:30:19 - admin - Erro ao gerar PDF
+04/10/2024 11:30:33 - admin - Erro ao gerar PDF
+04/10/2024 11:30:43 - admin - Erro ao gerar PDF
+04/10/2024 11:32:47 - admin - Erro ao gerar PDF
+04/10/2024 11:32:47 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:32:54 - admin - Erro ao gerar PDF
+04/10/2024 11:32:54 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:33:01 - admin - Erro ao gerar PDF
+04/10/2024 11:33:01 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:34:17 - admin - Erro ao gerar PDF
+04/10/2024 11:34:22 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:34:31 - admin - Erro ao gerar PDF
+04/10/2024 11:34:36 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:34:55 - admin - Erro ao gerar PDF
+04/10/2024 11:35:01 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:35:27 - admin - Erro ao gerar PDF
+04/10/2024 11:35:36 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:35:54 - admin - Erro ao gerar PDF
+04/10/2024 11:35:57 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:36:56 - admin - Erro ao gerar PDF
+04/10/2024 11:36:59 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:37:06 - admin - Erro ao gerar PDF
+04/10/2024 11:37:09 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:37:22 - admin - Erro ao gerar PDF
+04/10/2024 11:37:25 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:37:59 - admin - Erro ao gerar PDF
+04/10/2024 11:38:02 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+04/10/2024 11:38:07 - admin - Erro ao gerar PDF
+04/10/2024 11:38:10 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:38:33 - admin - Erro ao gerar PDF
+04/10/2024 11:38:36 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:38:53 - admin - Erro ao gerar PDF
+04/10/2024 11:38:56 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:39:18 - admin - Erro ao gerar PDF
+04/10/2024 11:39:21 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 11:39:26 - admin - Erro ao gerar PDF
+04/10/2024 11:39:29 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 11:39:49 - admin - Erro ao gerar PDF
+04/10/2024 11:39:53 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 16:48:20 -  - Página de login acessada.
+04/10/2024 16:48:31 - Marcelo Ribeiro - Usuário logado com sucesso.
+04/10/2024 16:48:36 - Marcelo Ribeiro - Erro ao gerar PDF
+04/10/2024 16:48:40 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 16:49:09 - Marcelo Ribeiro - Erro ao gerar PDF
+04/10/2024 16:49:13 - Marcelo Ribeiro - PDF gerado com sucesso: ID:22- Aluno: João Samsnug da China
+04/10/2024 16:50:02 - Marcelo Ribeiro - Aluno editado com sucesso. ID: João Samsung da China Paraguai Lotus
+04/10/2024 16:50:51 - Marcelo Ribeiro - Erro ao gerar PDF
+04/10/2024 16:50:55 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 16:59:52 - Marcelo Ribeiro - Erro ao gerar PDF5
+04/10/2024 16:59:56 - Marcelo Ribeiro - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+04/10/2024 17:01:26 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 17:08:23 -  - Página de login acessada.
+04/10/2024 17:08:34 -  - Email ou senha incorretos.
+04/10/2024 17:08:43 - admin - Usuário logado com sucesso.
+04/10/2024 17:10:37 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+04/10/2024 17:57:32 - admin - Saiu do sistema: 
+07/10/2024 09:11:54 -  - Página de login acessada.
+07/10/2024 09:12:13 - admin - Usuário logado com sucesso.
+07/10/2024 11:27:11 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+07/10/2024 12:35:43 - admin - Saiu do sistema: 
+07/10/2024 12:37:57 -  - Página de login acessada.
+07/10/2024 12:38:14 - Seu Testador da Silva - Usuário logado com sucesso.
+07/10/2024 14:59:29 -  - Página de login acessada.
+07/10/2024 14:59:35 - Marcelo Ribeiro - Usuário logado com sucesso.
+07/10/2024 15:12:12 - Marcelo Ribeiro - Disciplina atualizada com sucesso. ID: 34
+07/10/2024 15:51:53 - Marcelo Ribeiro - Disciplina atualizada com sucesso. ID: 55
+07/10/2024 15:53:43 - Marcelo Ribeiro - Disciplina atualizada com sucesso. ID: 45
+07/10/2024 15:53:48 - Marcelo Ribeiro - Disciplina atualizada com sucesso. ID: 45
+07/10/2024 15:53:55 - Marcelo Ribeiro - Disciplina atualizada com sucesso. ID: 45
+08/10/2024 17:45:28 -  - Página de login acessada.
+08/10/2024 17:45:35 - admin - Usuário logado com sucesso.
+08/10/2024 17:45:50 - admin - Disciplina desativada com sucesso. ID: 40
+08/10/2024 17:46:02 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 17:46:10 - admin - Disciplina desativada com sucesso. ID: 32
+08/10/2024 17:49:45 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 17:49:49 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 17:53:08 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 17:53:10 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 17:53:12 - admin - Disciplina desativada com sucesso. ID: 33
+08/10/2024 17:53:18 - admin - Disciplina ativada com sucesso. ID: 32
+08/10/2024 17:53:22 - admin - Disciplina desativada com sucesso. ID: 41
+08/10/2024 18:01:24 - admin - Disciplina desativada com sucesso. ID: 42
+08/10/2024 18:01:43 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:01:47 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:01:52 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:03:11 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:03:13 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:03:15 - admin - Disciplina ativada com sucesso. ID: 32
+08/10/2024 18:06:14 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:06:24 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:06:44 - admin - Disciplina desativada com sucesso. ID: 34
+08/10/2024 18:09:40 - admin - Disciplina desativada com sucesso. ID: 35
+08/10/2024 18:10:29 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:15:02 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:15:09 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:15:37 - admin - Disciplina desativada com sucesso. ID: 44
+08/10/2024 18:15:49 - admin - Disciplina desativada com sucesso. ID: 44
+08/10/2024 18:18:55 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:22:14 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:22:17 - admin - Disciplina desativada com sucesso. ID: 43
+08/10/2024 18:24:43 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:26:07 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:28:24 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:28:30 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:43 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:44 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:45 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:30:51 - admin - Disciplina ativada com sucesso. ID: 4
+08/10/2024 18:32:21 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:41:56 - admin - Disciplina ativada com sucesso. ID: 40
+08/10/2024 18:42:18 - admin - Backup gerado com sucesso!
+08/10/2024 20:22:56 -  - Página de login acessada.
+08/10/2024 20:23:11 -  - Página de login acessada.
+08/10/2024 20:23:23 - admin - Usuário logado com sucesso.
+08/10/2024 20:23:33 - admin - Página de login acessada.
+09/10/2024 12:34:33 - Seu Testador da Silva - Saiu do sistema: 
+09/10/2024 12:34:35 -  - Página de login acessada.
+09/10/2024 12:34:46 - admin - Usuário logado com sucesso.
+09/10/2024 12:39:16 - admin - Saiu do sistema: 
+09/10/2024 12:39:17 -  - Página de login acessada.
+09/10/2024 12:39:27 - admin - Usuário logado com sucesso.
+09/10/2024 12:41:12 -  - Página de login acessada.
+09/10/2024 12:41:55 - admin - Usuário logado com sucesso.
+09/10/2024 12:43:05 -  - Página de login acessada.
+09/10/2024 12:49:26 -  - Página de login acessada.
+09/10/2024 12:49:39 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 13:02:45 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:03:58 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:04:03 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 13:04:09 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 39
+09/10/2024 13:04:24 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:04:27 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:04:57 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 38
+09/10/2024 13:06:00 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:06:03 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:09:27 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:14:02 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 13:14:05 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 13:14:08 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 33
+09/10/2024 13:14:13 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 41
+09/10/2024 13:19:05 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 13:19:14 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 44
+09/10/2024 13:19:31 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 15:24:29 - admin - Página de login acessada.
+09/10/2024 15:24:39 - admin - Email ou senha incorretos.
+09/10/2024 15:24:45 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 15:25:24 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 42
+09/10/2024 15:25:30 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 39
+09/10/2024 15:25:33 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 38
+09/10/2024 15:25:36 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 43
+09/10/2024 15:25:38 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 34
+09/10/2024 15:25:40 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 35
+09/10/2024 18:17:08 - Marcelo Ribeiro - Página de login acessada.
+09/10/2024 18:17:21 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 18:17:21 -  - Página de login acessada.
+09/10/2024 18:17:29 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 18:39:10 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:39:15 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:43:44 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:43:55 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:43:58 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:43:59 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:44:02 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:46:35 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:39 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:42 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:43 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:44 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:47 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:48 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:50 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:46:51 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 18:47:06 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 18:47:07 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 18:47:08 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 18:48:57 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 18:49:08 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:37:51 -  - Página de login acessada.
+09/10/2024 19:37:58 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 19:38:04 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:41:08 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:41:10 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:41:11 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:41:19 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 32
+09/10/2024 19:41:22 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:41:24 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:41:25 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+09/10/2024 19:41:45 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 38
+09/10/2024 19:41:49 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 38
+09/10/2024 19:41:52 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:41:53 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:41:56 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 44
+09/10/2024 19:41:57 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 44
+09/10/2024 19:42:28 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 8
+09/10/2024 19:42:29 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 8
+09/10/2024 19:43:33 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:44:54 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:44:56 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+09/10/2024 19:44:57 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+09/10/2024 19:45:13 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 44
+09/10/2024 19:45:31 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 44
+09/10/2024 19:49:09 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 37
+09/10/2024 19:49:14 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 37
+09/10/2024 19:52:58 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 38
+09/10/2024 19:55:23 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 37
+09/10/2024 19:55:27 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 37
+09/10/2024 19:55:28 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 38
+09/10/2024 19:55:33 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 39
+09/10/2024 19:55:36 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 39
+09/10/2024 19:55:50 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 19
+09/10/2024 19:55:55 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 19
+09/10/2024 19:59:50 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 19
+09/10/2024 19:59:53 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 19
+09/10/2024 20:01:48 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 37
+09/10/2024 20:01:51 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 37
+09/10/2024 20:04:22 - Marcelo Ribeiro - Saiu do sistema: 
+09/10/2024 20:39:03 -  - Página de login acessada.
+09/10/2024 20:39:14 - admin - Usuário logado com sucesso.
+09/10/2024 20:39:23 - admin - PDF gerado com sucesso: ID:17- Aluno: Abel da Silva
+09/10/2024 20:41:47 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 20:44:45 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 20:59:09 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 21:16:51 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 21:22:19 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 21:23:51 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 21:25:06 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 21:52:40 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 22:00:29 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 22:01:58 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 22:12:38 - admin - PDF gerado com sucesso: ID:18- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 22:14:16 - admin - PDF gerado com sucesso: ID:22- Aluno: João Samsnug da China
+09/10/2024 22:15:25 - admin - PDF gerado com sucesso: ID:19- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 22:17:42 - admin - PDF gerado com sucesso: ID:20- Aluno: Marcelo de Souza Ribeiro
+09/10/2024 22:55:51 -  - Página de login acessada.
+09/10/2024 22:56:04 -  - Página de login acessada.
+09/10/2024 22:56:11 - Marcelo Ribeiro - Usuário logado com sucesso.
+09/10/2024 22:56:20 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 22:57:07 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+09/10/2024 22:57:44 - Marcelo Ribeiro - Saiu do sistema: 
+10/10/2024 10:24:13 -  - Página de login acessada.
+10/10/2024 10:24:24 - admin - Usuário logado com sucesso.
+10/10/2024 10:24:42 - admin - Disciplina desativada com sucesso. ID: 40
+10/10/2024 10:24:44 - admin - Disciplina ativada com sucesso. ID: 40
+10/10/2024 10:24:50 - admin - Disciplina desativada com sucesso. ID: 39
+10/10/2024 10:24:52 - admin - Disciplina ativada com sucesso. ID: 39
+10/10/2024 11:51:07 -  - Página de login acessada.
+10/10/2024 11:52:37 - Seu Testador da Silva - Usuário logado com sucesso.
+10/10/2024 12:28:29 -  - Página de login acessada.
+10/10/2024 12:28:35 - Marcelo Ribeiro - Usuário logado com sucesso.
+10/10/2024 12:28:46 -  - Página de login acessada.
+10/10/2024 12:28:58 - Seu Testador da Silva - Usuário logado com sucesso.
+10/10/2024 12:29:14 - Seu Testador da Silva - Disciplina desativada com sucesso. ID: 40
+10/10/2024 12:29:40 - Marcelo Ribeiro - Backup gerado com sucesso!
+10/10/2024 12:30:25 - Marcelo Ribeiro - Saiu do sistema: 
+10/10/2024 20:19:00 -  - Página de login acessada.
+10/10/2024 20:19:14 - Seu Testador da Silva - Usuário logado com sucesso.
+10/10/2024 20:22:40 - Seu Testador da Silva - Disciplina ativada com sucesso. ID: 40
+10/10/2024 20:22:47 - Seu Testador da Silva - Disciplina desativada com sucesso. ID: 41
+10/10/2024 20:22:48 - Seu Testador da Silva - Disciplina desativada com sucesso. ID: 33
+10/10/2024 20:22:49 - Seu Testador da Silva - Disciplina desativada com sucesso. ID: 32
+10/10/2024 20:22:52 - Seu Testador da Silva - Disciplina desativada com sucesso. ID: 36
+10/10/2024 20:22:54 - Seu Testador da Silva - Disciplina ativada com sucesso. ID: 36
+10/10/2024 20:22:56 - Seu Testador da Silva - Disciplina ativada com sucesso. ID: 32
+10/10/2024 20:22:57 - Seu Testador da Silva - Disciplina ativada com sucesso. ID: 33
+10/10/2024 20:22:58 - Seu Testador da Silva - Disciplina ativada com sucesso. ID: 41
+10/10/2024 20:25:22 - Seu Testador da Silva - PDF gerado com sucesso: ID:21- Aluno: Marcelo de Souza Ribeiro
+10/10/2024 20:26:44 - Seu Testador da Silva - Saiu do sistema: 
+10/10/2024 20:26:47 -  - Página de login acessada.
+10/10/2024 20:26:54 - admin - Usuário logado com sucesso.
+10/10/2024 20:28:26 - admin - Imagem atualizada com sucesso.
+10/10/2024 20:28:31 - admin - Imagem atualizada com sucesso.
+10/10/2024 20:28:34 - admin - Imagem atualizada com sucesso.
+10/10/2024 20:29:20 - admin - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+10/10/2024 20:35:03 - Marcelo de Souza Ribeiro - Página de login acessada.
+10/10/2024 20:35:11 - Marcelo Ribeiro - Usuário logado com sucesso.
+10/10/2024 20:35:15 - Marcelo Ribeiro - Backup gerado com sucesso!
+10/10/2024 20:35:58 - Marcelo Ribeiro - Imagem atualizada com sucesso.
+10/10/2024 20:36:17 - Marcelo Ribeiro - PDF gerado com sucesso: ID:16- Aluno: Alex Silva do Nascimento
+10/10/2024 20:37:10 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+10/10/2024 20:37:12 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 32
+10/10/2024 20:37:13 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 33
+10/10/2024 20:37:15 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 41
+10/10/2024 20:37:19 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 42
+10/10/2024 20:37:20 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 34
+10/10/2024 20:37:21 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 35
+10/10/2024 20:37:22 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 43
+10/10/2024 20:37:23 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 36
+10/10/2024 20:37:47 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+10/10/2024 20:37:48 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 32
+10/10/2024 20:37:49 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 33
+10/10/2024 20:37:50 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 41
+10/10/2024 20:37:52 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 42
+10/10/2024 20:37:53 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 34
+10/10/2024 20:37:55 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 35
+10/10/2024 20:37:56 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 43
+10/10/2024 20:37:58 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 36
+10/10/2024 20:40:34 - Marcelo Ribeiro - Saiu do sistema: 
+10/10/2024 20:44:04 -  - Página de login acessada.
+10/10/2024 20:44:37 - admin - Usuário logado com sucesso.
+10/10/2024 20:45:15 - admin - Saiu do sistema: 
+10/10/2024 20:45:53 -  - Página de login acessada.
+10/10/2024 20:46:04 - admin - Usuário logado com sucesso.
+10/10/2024 20:51:07 - admin - Saiu do sistema: 
+11/10/2024 11:48:02 - Seu Testador da Silva - Página de login acessada.
+11/10/2024 11:48:06 - Seu Testador da Silva - Email ou senha incorretos.
+11/10/2024 11:48:13 - Seu Testador da Silva - Email ou senha incorretos.
+11/10/2024 11:48:34 - Seu Testador da Silva - Página de login acessada.
+11/10/2024 11:48:39 - Seu Testador da Silva - Email ou senha incorretos.
+11/10/2024 11:49:42 - Seu Testador da Silva - Email ou senha incorretos.
+11/10/2024 11:49:54 - Seu Testador da Silva - Página de login acessada.
+11/10/2024 12:13:03 -  - Página de login acessada.
+11/10/2024 12:13:19 - Marcelo Ribeiro - Usuário logado com sucesso.
+11/10/2024 12:16:38 -  - Marcelo Ribeiro - Saiu do sistema: 
+11/10/2024 12:16:39 -  -  - Página de login acessada.
+11/10/2024 12:17:52 - ::1 -  - Página de login acessada.
+11/10/2024 12:17:54 - ::1 -  - Página de login acessada.
+11/10/2024 12:18:00 - ::1 - admin - Usuário logado com sucesso.
+11/10/2024 20:17:56 - 10.0.63.247 -  - Página de login acessada.
+11/10/2024 20:18:16 - 10.0.63.247 - admin - Usuário logado com sucesso.
+11/10/2024 20:19:57 - 10.0.63.247 - admin - Disciplina desativada com sucesso. ID: 40
+11/10/2024 20:20:07 - 10.0.63.247 - admin - Disciplina ativada com sucesso. ID: 40
+11/10/2024 20:22:08 - 10.0.63.247 - admin - PDF gerado com sucesso: ID:23- Aluno: João Samsnug da China Paraguai Lotus
+14/10/2024 12:06:36 - 172.55.0.200 -  - Página de login acessada.
+14/10/2024 12:06:46 - 172.55.0.200 - admin - Usuário logado com sucesso.
+14/10/2024 12:48:07 - 172.55.0.200 - admin - Professor deletado com sucesso. ID: 7
+14/10/2024 12:49:21 - 172.55.0.200 - admin - Certificado deletado com sucesso. ID: 16
+14/10/2024 12:49:23 - 172.55.0.200 - admin - Certificado deletado com sucesso. ID: 17
+14/10/2024 12:49:26 - 172.55.0.200 - admin - Certificado deletado com sucesso. ID: 18
+14/10/2024 12:49:27 - 172.55.0.200 - admin - Certificado deletado com sucesso. ID: 19
+14/10/2024 12:49:30 - 172.55.0.200 - admin - Certificado deletado com sucesso. ID: 20
+14/10/2024 13:29:42 - 172.55.0.200 -  - Página de login acessada.
+14/10/2024 13:29:57 - 172.55.0.200 - Seu Testador da Silva - Usuário logado com sucesso.
+14/10/2024 15:06:48 - 127.0.0.1 -  - Página de login acessada.
+14/10/2024 15:07:00 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+14/10/2024 17:32:04 - 127.0.0.1 -  - Página de login acessada.
+14/10/2024 17:32:17 - 127.0.0.1 - Seu Testador da Silva - Usuário logado com sucesso.
+14/10/2024 17:38:54 - 127.0.0.1 - Seu Testador da Silva - Saiu do sistema: 
+14/10/2024 17:38:56 - 127.0.0.1 -  - Página de login acessada.
+16/10/2024 09:17:58 - 172.55.0.200 -  - Página de login acessada.
+16/10/2024 09:18:11 - 172.55.0.200 - Marcelo Ribeiro - Usuário logado com sucesso.
+16/10/2024 09:19:03 - 172.55.0.200 - Marcelo Ribeiro - Saiu do sistema: 
+16/10/2024 12:56:26 - 172.55.0.200 -  - Página de login acessada.
+16/10/2024 12:56:33 - 172.55.0.200 - Marcelo Ribeiro - Usuário logado com sucesso.
+18/10/2024 11:21:39 - 172.55.0.200 - Marcelo Ribeiro - Página de login acessada.
+18/10/2024 11:21:46 - 172.55.0.200 - Marcelo Ribeiro - Usuário logado com sucesso.
+18/10/2024 11:21:46 - 172.55.0.200 -  - Página de login acessada.
+18/10/2024 11:21:55 - 172.55.0.200 - Marcelo Ribeiro - Usuário logado com sucesso.
+18/10/2024 14:56:54 - ::1 -  - Página de login acessada.
+18/10/2024 14:57:02 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+22/10/2024 22:59:44 - 10.0.0.157 -  - Página de login acessada.
+22/10/2024 23:00:00 - 10.0.0.157 - Marcelo Ribeiro - Usuário logado com sucesso.
+22/10/2024 23:00:42 - 10.0.0.157 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+22/10/2024 23:00:43 - 10.0.0.157 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+22/10/2024 23:01:37 - 10.0.0.157 - Marcelo Ribeiro - Saiu do sistema: 
+24/10/2024 20:15:40 - 127.0.0.1 -  - Página de login acessada.
+24/10/2024 20:15:49 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+24/10/2024 20:16:45 - 127.0.0.1 - Marcelo Ribeiro - PDF gerado com sucesso: ID:24- Aluno: Marcelo de Souza Ribeiro
+24/10/2024 20:17:18 - 127.0.0.1 - Marcelo Ribeiro - Saiu do sistema: 
+25/10/2024 12:35:40 - ::1 -  - Página de login acessada.
+25/10/2024 12:35:45 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+25/10/2024 12:36:11 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+25/10/2024 16:10:02 - 127.0.0.1 -  - Página de login acessada.
+25/10/2024 16:10:11 - 127.0.0.1 - admin - Usuário logado com sucesso.
+25/10/2024 16:57:43 - 127.0.0.1 - admin - Saiu do sistema: 
+25/10/2024 16:57:44 - 127.0.0.1 -  - Página de login acessada.
+25/10/2024 16:57:54 - 127.0.0.1 - Seu Testador da Silva - Usuário logado com sucesso.
+25/10/2024 16:59:39 - 127.0.0.1 - Seu Testador da Silva - Saiu do sistema: 
+25/10/2024 17:03:15 - 127.0.0.1 -  - Página de login acessada.
+25/10/2024 18:01:29 - 127.0.0.1 -  - Página de login acessada.
+25/10/2024 18:01:47 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+25/10/2024 18:18:28 - 127.0.0.1 - Marcelo Ribeiro - Página de login acessada.
+25/10/2024 18:18:42 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+25/10/2024 18:43:12 - 127.0.0.1 - Marcelo Ribeiro - Saiu do sistema: 
+26/10/2024 09:17:10 - ::1 -  - Página de login acessada.
+26/10/2024 09:17:15 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+26/10/2024 09:27:09 - ::1 - Marcelo Ribeiro - Usário Marcelo adicionado.
+26/10/2024 09:28:28 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+26/10/2024 09:28:30 - ::1 -  - Página de login acessada.
+26/10/2024 09:28:40 - ::1 - Marcelo - Usuário logado com sucesso.
+26/10/2024 09:29:38 - ::1 - Marcelo - Senha alterada com sucesso. ID: 3
+26/10/2024 09:30:03 - ::1 - Marcelo - Senha alterada com sucesso. ID: 4
+26/10/2024 09:31:06 - ::1 - Marcelo - Senha alterada com sucesso. ID: 3
+26/10/2024 09:31:25 - ::1 - Marcelo - Senha alterada com sucesso. ID: 4
+26/10/2024 09:31:48 - ::1 - Marcelo - Senha alterada com sucesso. ID: 5
+26/10/2024 09:36:48 - ::1 - Marcelo - Saiu do sistema: 
+26/10/2024 09:36:50 - ::1 -  - Página de login acessada.
+26/10/2024 09:36:56 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+26/10/2024 10:27:41 - ::1 -  - Página de login acessada.
+26/10/2024 10:28:04 - ::1 -  - Página de login acessada.
+26/10/2024 11:14:05 - ::1 -  - Página de login acessada.
+26/10/2024 11:14:46 - ::1 -  - Página de login acessada.
+30/10/2024 21:18:49 - ::1 -  - Página de login acessada.
+30/10/2024 21:20:11 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+01/11/2024 21:04:05 - ::1 -  - Página de login acessada.
+01/11/2024 21:04:12 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+02/11/2024 19:32:09 - 127.0.0.1 -  - Página de login acessada.
+02/11/2024 19:32:26 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+02/11/2024 19:52:01 - 127.0.0.1 - Marcelo Ribeiro - Aluno adicionado com sucesso: Fulano Beltrano Orleans e Bragança
+02/11/2024 19:53:08 - 127.0.0.1 - Marcelo Ribeiro - Aluno editado com sucesso. ID: Fulano Beltrano Orleans e Bragança
+05/11/2024 20:00:37 - ::1 -  - Página de login acessada.
+05/11/2024 20:00:43 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+05/11/2024 20:02:07 - ::1 - Marcelo Ribeiro - Disciplina desativada com sucesso. ID: 40
+05/11/2024 20:02:10 - ::1 - Marcelo Ribeiro - Disciplina ativada com sucesso. ID: 40
+05/11/2024 20:03:53 - ::1 - Marcelo Ribeiro - Professor Thiago Maciel Ferreira alterado com sucesso.
+05/11/2024 20:06:00 - ::1 - Marcelo Ribeiro - PDF gerado com sucesso: ID:21- Aluno: Marcelo de Souza Ribeiro
+05/11/2024 20:07:45 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+06/11/2024 11:15:24 - ::1 -  - Página de login acessada.
+06/11/2024 11:15:28 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+06/11/2024 11:18:36 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+06/11/2024 11:18:39 - ::1 -  - Página de login acessada.
+06/11/2024 11:18:42 - ::1 -  - Página de login acessada.
+06/11/2024 11:43:20 - 127.0.0.1 -  - Página de login acessada.
+06/11/2024 11:43:30 - 127.0.0.1 -  - Email ou senha incorretos.
+06/11/2024 11:43:40 - 127.0.0.1 - Marcelo Ribeiro - Usuário logado com sucesso.
+06/11/2024 13:14:56 - 127.0.0.1 -  - Página de login acessada.
+06/11/2024 14:57:28 - ::1 -  - Página de login acessada.
+06/11/2024 14:57:35 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+06/11/2024 15:57:45 - ::1 -  - Página de login acessada.
+06/11/2024 15:57:54 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+06/11/2024 16:11:04 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+06/11/2024 16:11:05 - ::1 -  - Página de login acessada.
+06/11/2024 16:11:15 - ::1 - Seu Testador da Silva - Usuário logado com sucesso.
+06/11/2024 17:18:29 - ::1 -  - Página de login acessada.
+06/11/2024 17:18:33 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+06/11/2024 17:20:18 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+24/11/2024 20:53:15 - ::1 -  - Página de login acessada.
+24/11/2024 20:53:20 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+24/11/2024 21:51:42 - ::1 -  - Página de login acessada.
+24/11/2024 21:51:46 - ::1 -  - Email ou senha incorretos.
+24/11/2024 21:51:51 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+24/11/2024 21:54:07 - ::1 - Marcelo Ribeiro - Erro do cadastrar aluno. SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'emissor' at row 1
+24/11/2024 22:02:20 - ::1 - Marcelo Ribeiro - Erro do cadastrar aluno. SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'emissor' at row 1
+24/11/2024 22:09:10 - ::1 - Marcelo Ribeiro - Erro do cadastrar aluno. SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'emissor' at row 1
+24/11/2024 22:09:29 - ::1 - Marcelo Ribeiro - Erro do cadastrar aluno. SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'emissor' at row 1
+24/11/2024 22:13:41 - ::1 - Marcelo Ribeiro - Erro do cadastrar aluno. SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'graduacao' cannot be null
+24/11/2024 22:18:48 - ::1 - Marcelo Ribeiro - Aluno adicionado com sucesso: João Tiago Matheus Lucas
+24/11/2024 22:30:24 - ::1 - Marcelo Ribeiro - Aluno editado com sucesso. ID: João Tiago Matheus Lucas
+24/11/2024 22:33:36 - ::1 - Marcelo Ribeiro - Aluno editado com sucesso. ID: João Tiago Matheus Lucas
+24/11/2024 22:34:02 - ::1 - Marcelo Ribeiro - Aluno adicionado com sucesso: Tiago Matheus Lucas
+24/11/2024 23:12:16 - ::1 -  - Página de login acessada.
+25/11/2024 08:46:47 - ::1 -  - Página de login acessada.
+25/11/2024 08:46:51 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+25/11/2024 09:05:48 - ::1 - Marcelo Ribeiro - Aluno adicionado com sucesso: Silvio Souza Santos
+25/11/2024 09:06:00 - ::1 - Marcelo Ribeiro - Aluno editado com sucesso. ID: Silvio Souza Santos
+25/11/2024 09:42:56 - ::1 -  - Página de login acessada.
+25/11/2024 09:43:00 - ::1 -  - Email ou senha incorretos.
+25/11/2024 09:43:06 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+25/11/2024 09:55:42 - ::1 - Marcelo Ribeiro - PDF gerado com sucesso: ID:25- Aluno: Teste
+29/11/2024 18:01:00 - ::1 -  - Página de login acessada.
+29/11/2024 18:01:29 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+29/11/2024 18:19:37 - ::1 - Marcelo Ribeiro - Saiu do sistema: 
+29/11/2024 18:19:39 - ::1 -  - Página de login acessada.
+29/11/2024 18:19:46 - ::1 - admin - Usuário logado com sucesso.
+29/11/2024 19:28:09 - ::1 - admin - PDF gerado com sucesso: ID:25- Aluno: Teste
+29/11/2024 20:27:30 - ::1 -  - Página de login acessada.
+29/11/2024 20:27:35 - ::1 - Marcelo Ribeiro - Usuário logado com sucesso.
+29/11/2024 20:40:55 - ::1 - Marcelo Ribeiro - Página de login acessada.

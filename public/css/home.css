@@ -1,0 +1,758 @@
+:root {
+    --cor-de-fundo: #0a0a23;
+    --cor-pontos: #ffffff;
+    --tamanho: 5px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 7rem;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu {
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 5%;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #0d0f25, #0b08cc);
+    color: #fff;
+    padding: 1px 0;
+    text-align: center;
+    position: fixed;
+    height: 120px;
+    width: 100%;
+    top: 0;
+}
+
+h6 {
+    margin: auto;
+}
+
+.user {
+    color: #fff;
+    text-align: center;
+    transform: translateX(50%);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+nav {
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 40%;
+    height: 50px;
+    font-size: 20px;
+    background-color: #072c53;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-alinhamento {
+    display: flex;
+    gap: 10px;
+}
+
+button:hover {
+    background-color: #0b3e6f;
+    transform: scale(1.05);
+}
+
+button:active {
+    background-color: #0b3e6f;
+    transform: scale(0.95);
+}
+
+.row-justify-content-center {
+    width: 90%;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+a .btn {
+    display: block;
+    width: 100%;
+}
+
+.col-md-5 {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    width: 90%;
+    max-height: 100px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    text-align: left;
+    padding: 9px;
+    font-size: 16px;
+
+}
+
+th {
+    background-color: #0003a3;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 95%;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+form {
+
+    width: 50%;
+    max-height: 550px;
+
+    border-radius: 5px;
+
+    border-collapse: collapse;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+    font-size: 18px;
+}
+
+.curso {
+    width: auto;
+}
+
+.aluno {
+    width: auto;
+    max-height: 556px;
+}
+
+#cad-aluno {
+    width: 45%;
+}
+
+form input {
+
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 10px 10px 10px;
+
+
+}
+
+.row-justify-content-center {
+    width: 90%;
+}
+
+select {
+    width: 50px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.aluno input {
+    width: 90%;
+}
+
+.nasc {
+    display: flex;
+    flex-direction: row;
+    width: 92%;
+    margin: auto;
+}
+
+.nasci,
+.nacio,
+.natur {
+    width: 45%;
+    margin-right: 1%;
+}
+
+.rg {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: center;
+    gap: 7%;
+    margin: auto;
+    margin-left: 4%;
+}
+
+
+.curso select {
+    width: 90%;
+    height: 52px;
+
+}
+
+#modalidade {
+
+    width: 118%;
+}
+
+
+#Nome-curso {
+    width: 53rem;
+
+}
+
+.cad-curso {
+    justify-content: center;
+    align-items: center;
+
+}
+
+#addProf {
+    width: 50%;
+}
+
+.cad-aluno {
+    text-align: center;
+}
+
+.aluno-edit input {
+    width: 90%;
+}
+
+.form-control {
+    width: 90%;
+}
+
+.cad-prof,
+.cad-user,
+.edit-user {
+    width: 90%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column
+}
+
+.cad-user select,
+.edit-user select,
+.sel-aluno select {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+
+.curso-nome,
+.curso-ies,
+.curso-parecer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+
+
+}
+
+.dialog {
+    width: 60%;
+    height: 50%;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+}
+
+
+
+.certificado {
+    width: 90%;
+    max-height: 630px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+}
+
+.certificado input,
+.certificado select {
+    width: 290px;
+}
+
+.campo1 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+}
+
+.form-group {
+
+    margin: 10px auto;
+    text-align: center;
+}
+
+.input_search {
+    width: 60%;
+
+}
+
+.form_search {
+    width: 100%;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+    display: flex;
+    align-items: end;
+    justify-content: right;
+    margin-left: 94%;
+    margin-top: -12%;
+}
+
+.form_search input {
+    width: auto;
+    background-color: #ffffff;
+    border-radius: 5px;
+
+}
+
+.search {
+    display: block;
+}
+
+.form-cert {
+    background-color: #ffffff;
+    border: none;
+    box-shadow: none;
+}
+
+.bkp {
+    width: 150%;
+    box-shadow: none;
+}
+
+.config-logo {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-logo {
+    width: 80%;
+    box-shadow: none;
+}
+
+.alt-logo {
+    text-align: center;
+    width: 80%;
+}
+
+/* Preloader */
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    opacity: 0.2;
+    animation: spinz 4.35s linear infinite;
+    z-index: 100;
+
+}
+
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    animation: spin 4.35s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -60px;
+    margin-left: -60px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+
+    50% {
+        transform: rotate(360deg);
+        opacity: 1;
+    }
+
+    75% {
+        transform: rotate(180deg);
+        opacity: 1;
+    }
+
+    100% {
+        transform: rotate(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes spinz {
+    0% {
+        opacity: 0.8;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+
+    75% {
+        opacity: 0.7;
+    }
+
+    100% {
+        opacity: 0.2;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        margin-top: 5rem;
+    }
+
+    #cad-aluno {
+        width: 100%;
+    }
+
+    .rg input {
+        width: 80%;
+    }
+
+    .rg {
+        gap: 0;
+    }
+
+    .nasc {
+        margin-left: 0;
+        width: 100%;
+        display: block;
+    }
+
+    .nasci,
+    .nacio,
+    .natur {
+        width: 100%;
+        margin-right: 1%;
+    }
+
+    .col-md-5 {
+        width: 194px;
+    }
+
+    header {
+        height: 90px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    footer {
+        height: 14px;
+        font-size: 0.7rem;
+    }
+
+    table {
+        font-size: 0.8rem;
+    }
+
+    form {
+        width: 60%;
+        max-height: 500px;
+        font-size: 0.8rem;
+    }
+
+    .aluno-edit {
+        width: 60%;
+
+    }
+
+    .aluno-edit input {
+        width: 90%;
+    }
+
+    #Nome-curso {
+        width: 45rem;
+
+    }
+}
+
+
+@media (max-width: 1366px) {
+    body {
+        font-size: 0.8rem;
+    }
+
+    #logo {
+        height: auto;
+    }
+
+    .container {
+        margin-top: 4rem;
+    }
+
+    header {
+        height: 80px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    footer {
+        height: 14px;
+        font-size: 0.7rem;
+    }
+
+    table {
+        font-size: 0.8rem;
+    }
+
+    form {
+        width: 60%;
+        max-height: 500px;
+        font-size: 0.8rem;
+    }
+
+    .aluno-edit {
+        width: 60%;
+
+    }
+
+    .aluno-edit input {
+        width: 90%;
+    }
+
+    #Nome-curso {
+        width: 45rem;
+
+    }
+
+    .dialog {
+        height: 60%;
+    }
+
+    form input {
+        height: 10px;
+        font-size: 1rem;
+    }
+
+    select {
+        font-size: 16px;
+    }
+
+    .curso select {
+        height: 35px;
+    }
+
+    .cad-curso {
+        font-size: 0.8rem;
+    }
+
+    .cad-aluno {
+        font-size: 0.8rem;
+    }
+
+    .certificado {
+        width: 95%;
+        max-height: 400px;
+        font-size: 0.8rem;
+    }
+
+    .certificado input,
+    .certificado select {
+        width: 200px;
+    }
+
+    .cad-user select,
+    .edit-user select,
+    .sel-aluno select {
+        height: 50px;
+    }
+
+    button {
+        font-size: medium;
+        width: 100%;
+        height: 40px;
+    }
+
+    .btn-alinhamento {
+        display: flex;
+        gap: 10px;
+    }
+
+    .campo1 {
+        gap: 5px;
+    }
+
+    .form-group {
+        margin: 5px auto;
+    }
+
+    .form_search {
+        width: 100%;
+        background-color: #f4f4f4;
+        border-radius: 5px;
+        box-shadow: none;
+        border: none;
+        display: flex;
+        align-items: end;
+        justify-content: right;
+        margin-left: 60%;
+        margin-top: -11%;
+    }
+
+    .form_search input {
+        width: auto;
+        background-color: #ffffff;
+        border-radius: 5px;
+        height: 25px;
+
+    }
+
+    .search {
+        display: block;
+    }
+}
