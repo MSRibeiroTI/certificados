@@ -150,6 +150,20 @@ button:active {
     display: inline-block;
 }
 
+.btn-tb {
+    width: 50%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
 .btn:hover {
     background-color: #0056b3;
 }
@@ -186,9 +200,10 @@ table {
 
 }
 
+
 th,
 td {
-    border: 1px solid #ccc;
+   /* border: 1px solid #ccc; */
     text-align: left;
     padding: 9px;
     font-size: 16px;

@@ -132,13 +132,13 @@ include "../Views/includes/header.php";
                                         <td>
                                             <div class="col-md-5">
                                                 <a href="editar_aluno?_s-tga_=<?= $aluno['id_aluno'] ?>">
-                                                    <button class="btn">Editar</button>
+                                                    <button class="btn-tb">Editar</button>
                                                 </a>
                                             </div>
                                             <?php if ($_SESSION['perfil'] == 2): ?>
                                                 <div class="col-md-5">
                                                     <a href="javascript:;" data-id="<?= $aluno['id_aluno'] ?>" class="delete">
-                                                        <button class="btn">Deletar</button>
+                                                        <button class="btn-tb">Deletar</button>
                                                     </a>
                                                 <?php endif; ?>
                                                 </div>

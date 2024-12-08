@@ -75,7 +75,7 @@ include "../Views/includes/header.php";
                                     <div class="col-md-5">
                                         <?php if ($usuario['id_user'] == $_SESSION['id']  || $_SESSION['perfil'] == 2): ?>
                                             <a href="/certificados/app/Views/editar_usuario?id=<?= $usuario['id_user'] ?>">
-                                                <button class="btn">Editar</button>
+                                                <button class="btn-tb">Editar</button>
                                             </a>
                                         <?php endif; ?>
                                     </div>
@@ -83,7 +83,7 @@ include "../Views/includes/header.php";
                                         <div class="col-md-5">
                                             <?php if ($usuario['id_user'] != $_SESSION['id']): ?>
                                                 <a href="javascript:;" data-id="<?= $usuario['id_user'] ?>" class="delete">
-                                                    <button class="btn">Deletar</button>
+                                                    <button class="btn-tb">Deletar</button>
                                                 </a>
                                             <?php endif; ?>
                                         </div>
